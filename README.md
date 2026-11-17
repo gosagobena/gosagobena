@@ -1,4 +1,3 @@
-<!-- HEADER BANNER -->
 <div align="center">
 
 <img src="github-banner.png" alt="Gosa Gobena – Software Developer IV" width="100%" />
@@ -70,9 +69,47 @@ Docker-based deployments · CI/CD pipelines with GitHub Actions · Next.js Serve
 | Project | Description | Stack |
 |---|---|---|
 | [**MAU Library Management System**](https://github.com/gosagobena/mau-library-management-system) | Library management for Mattu University Main Campus. Automates cataloging, circulation, fine calculation, and reporting with role-based access. | ASP.NET Core · PostgreSQL · Next.js |
-| **Property Management System** | Digitizes property registration, tracking, and reporting for government-owned assets at the Oromia Finance Bureau. | ASP.NET Core · PostgreSQL · React (Vite) · Tailwind CSS |
-| **Integrated Library & Digital Archive** *(in progress)* | Combines library management with a digital archive for the Oromo Institute of Research and Studies. | Next.js · Django |
+| **Property Management System (PMS)** | Digitizes property registration, tracking, and reporting for government-owned assets at the Oromia Finance Bureau. | ASP.NET Core · PostgreSQL · React (Vite) · Tailwind CSS |
+| **Integrated Library Management & Digital Archive System (ILMDAS)** *(in progress)* | Combines library management with a digital archive for the Oromo Institute of Research and Studies. | Next.js · Django |
 | **State Auditing Hub** | Tracks and audits institutional workflows, approval chains, and compliance documentation across government bodies. | ASP.NET Core · PostgreSQL · React Native · React |
+
+---
+
+## 🏛️ Property Management System (PMS)
+
+**Client:** Oromia Finance Bureau  
+**Stack:** ASP.NET Core · PostgreSQL · React (Vite) · Tailwind CSS
+
+A web-based platform that digitizes how government-owned property is registered, tracked, and reported, replacing manual, paper-based records.
+
+**What it does**
+- Registers and keeps records of government-owned assets
+- Tracks property across its lifecycle
+- Produces reports for administrators and decision makers
+- Uses secure API access with role-based permissions
+
+**Technical highlights**
+- RESTful ASP.NET Core Web API with a PostgreSQL relational database
+- Responsive React (Vite) front-end styled with Tailwind CSS
+
+---
+
+## 📚 Integrated Library Management & Digital Archive System (ILMDAS)
+
+**Client:** Oromo Institute of Research and Studies  
+**Stack:** Next.js · Django  
+**Status:** 🚧 In progress
+
+An integrated platform that brings library management and a digital archive into one system, so physical collections and digital materials can be managed and found in one place.
+
+**What it does**
+- Manages library resources and operations
+- Stores and organizes digital archive materials
+- Makes collections easier to find and access
+
+**Technical highlights**
+- Next.js front-end with a Django back-end
+- One platform for both the library and the archive
 
 ---
 
