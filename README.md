@@ -113,17 +113,12 @@ An integrated platform that brings library management and a digital archive into
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gosagobena&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gosagobena&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/gosagobena?style=for-the-badge&logo=github&label=Followers)
+![Top language](https://img.shields.io/github/languages/top/gosagobena/mau-library-management-system?style=for-the-badge&label=Top%20language)
+![Last commit](https://img.shields.io/github/last-commit/gosagobena/mau-library-management-system?style=for-the-badge&label=Last%20commit)
 
 </div>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to collaboration and interesting full-stack or backend opportunities. Feel free to reach out by email or Telegram.
