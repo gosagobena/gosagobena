@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gosa%20Gobena&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20IV%20%7C%20Full-Stack%20%26%20Backend%20Engineer&descSize=18&descAlignY=60" alt="Gosa Gobena banner" />
+<img src="github-banner.png" alt="Gosa Gobena – Software Developer IV" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+secure+web+%26+mobile+systems;ASP.NET+Core+%7C+Django+%7C+Next.js+%7C+React+Native;Digitizing+government+%26+institutional+services)](https://git.io/typing-svg)
 
@@ -61,7 +61,7 @@ I'm a **Software Developer IV** at the **Oromia Innovation and Technology Bureau
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🌱 Currently Exploring
-Docker-based deployments · CI/CD pipelines with GitHub Actions · Next.js Server Actions · .NET Minimal APIs · Kubernetes
+Docker-based deployments · CI/CD pipelines with GitHub Actions · Next.js Server Actions · .NET Minimal APIs
 
 ---
 
@@ -90,9 +90,3 @@ Docker-based deployments · CI/CD pipelines with GitHub Actions · Next.js Serve
 ## 🤝 Let's Connect
 
 I'm open to collaboration and interesting full-stack or backend opportunities. Feel free to reach out by email or Telegram.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
-
-</div>
